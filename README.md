@@ -34,8 +34,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 ![lenovo s145](imagens/lenovoideapads145.png)
 [Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256)
 #### Especificações técnicas.
-**Processador:**
-
+**Processador**
 - Intel Core i5-8265U
 
 - Quad Core / 8 Threads
@@ -44,104 +43,37 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 
 - 1.6GHZ (3.9GHZ Max Turbo)
 
- 
-
-**Memória RAM:**
-
+**Memória RAM**
 - 8GB
 
 - 4GB soldado + 4GB slot DDR4 2400MHz
 
 - Expansível até 20GB (4GB soldado + 16GB slot DDR4 2400MHz)
 
- 
-
-**Armazenamento:**
-
+**HD**
 - 1TB 5400 RPM
 
- 
-
-**Chipset:**
-
-- Integrado
-
- 
-
 **Placa de vídeo:**
-
 - NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
 
- 
-
-**Sistema operacional:**
-
-- Windows 10
-
- 
-
-**Tela:**
-
-- Tamanho: 15.6"
-
-- Resolução: HD (1366 x 768) Antirreflexo
-
-- Formato: 16:9 widescreen
-
-- Brilho da Tela: 220 nits
-
-- Tipo de Painel: TN
-
-- Abertura de Tela: 180 graus
-
- 
-
-**Wi-Fi:**
-
-- WiFi 1x1 AC
-
- 
-
-**Conexões:**
-
-- 1x Áudio (porta combo para headset/headphone)
-
-- Drive Óptico (leitor DVD): Não possui
-
-- Microfone: Possui
-
-- 1x Audio (porta combo para headset/headphone)
-
-- 2x USB (3.1)
-
-- 1x USB (2.0)
-
-- Leitor de Cartões: Leitor de Cartões 4 em 1 (SD, SDHC, SDXC, MMC)
-
-- Bluetooth: Bluetooth 4.2
-
- 
-
-**Câmera:**
-
-- 0.3 MP (VGA)
-
- 
-
-**Auto-falantes:**
-
-- Alto falantes com certificação Dolby Audio (2 x 1.5W)
-
- 
-
-**Bateria:**
-
-- 2 células 35Wh
-
-- Não removível
-
-- 65W
 ---
 ### Notebook Dell Ultrafino I15-7572-A30C 
 ![dell](imagens/dell01.png)
 [Link do site](https://www.realnovidades.com/item/Notebook-Dell-Ultrafino-I15%252d7572%252dA30C-Intel-Core-i7-16GB-(GeForce-MX150-com-4GB)-1TB-128GB-SSD-Tela-Full-HD-.html)
+
+#### Especificações Técnicas
+
+**Processador**
+- Intel Core i7-8550U (8MB Cache, até 4.0 GHz)
+
+**Memória RAM**
+- 16GB
+
+**SSD**
+- 128GB
+
+**HD**
+- 1TB
+
+**Placa de Vídeo**	
+- NVIDIA GeForce MX150 com 4GB GDDR5
