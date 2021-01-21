@@ -10,4 +10,5 @@
 #
 > ## Requisitos mínimos de sistema para o After Effects
 > ![after effects](imagens/aftereffects.png)
+> [Link da página da Adobe](https://helpx.adobe.com/br/after-effects/user-guide.html/br/after-effects/system-requirements.ug.html) diretamente para os requisitos do After Effects.
  
