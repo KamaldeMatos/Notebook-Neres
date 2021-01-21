@@ -23,6 +23,7 @@ CPU | RAM | SSD | VRAM |
 i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | no mínimo 2GB dedicada |
 
 > Com o SSD tu vai ter mais rapidez nas tarefas e inicialização dos programas, trazendo assim uma produtividade bem maior. Fora que para a realização de multi tarefas o SSD  vai te proporcionar bem mais qualidade.
+---
 #### Mas também podemos substituir o SSD por um HDD de 1TB
 CPU | RAM | HDD | VRAM |
 --- | --- | --- | ---- |
