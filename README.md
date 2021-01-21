@@ -33,4 +33,14 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 ### Notebook Lenovo Ideapad S145
 ![lenovo s145](imagens/lenovoideapads145.png)
 [Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Caso queira dar uma olhada.
+#### Especificações técnicas.
+ | Processador | Memória RAM | Armazenamento | Placa de vídeo | Tela | 
+ | ------------| ----------- | ------------- | -------------- | ---- |
+ Intel Core i5-8265U |  8GB
+
+Quad Core / 8 Threads | 4GB soldado + 4GB slot DDR4 2400MHz
+
+6MB | Expansível até 20GB (4GB soldado + 16GB slot DDR4 2400MHz)
+
+1.6GHZ (3.9GHZ Max Turbo) |
  
