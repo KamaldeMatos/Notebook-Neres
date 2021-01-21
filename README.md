@@ -15,4 +15,6 @@
 > ## Requisitos de sistema do Premiere Pro
 > ![premiere](imagens/premiere.png)
 > [Link da página da Adobe](https://helpx.adobe.com/br/premiere-pro/user-guide.html/br/premiere-pro/system-requirements.ug.html) diretamente para os requisitos do Premiere Pro.
+#
+## Então Neres, eu coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook para você dar uma avaliada. 
  
