@@ -33,4 +33,5 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 ### Notebook Lenovo Ideapad S145
 ![lenovo s145](imagens/lenovoideapads145.png)
 [Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Caso queira dar uma olhada.
+> **Observação** este mesmo modelo de notebbok está á venda no Magazine Luiza, mas fica atento porque ele não tem placa de video. [Link do site](https://www.magazineluiza.com.br/notebook-lenovo-ideapad-s145-82dj0001br-intel-core-i5-8gb-1tb-156-windows-10/p/226104200/in/leip/?&force=1&seller_id=magazineluiza&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=58374&gclid=CjwKCAiAxp-ABhALEiwAXm6IyXEFVYtLC7iimmhq7lSz0FwpXZ-1oBBPczIOZlTjQvDA5TscjAlWFxoCZAIQAvD_BwE)
  
