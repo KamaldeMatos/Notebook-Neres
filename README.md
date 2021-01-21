@@ -5,7 +5,7 @@
 
 > [Link da página da Adobe](https://helpx.adobe.com/br/photoshop/system-requirements.html) diretamente para os requisitos do Photoshop.
 #
-> ## _Requisitos mínimos de sistema para o Illustrator_
+> ## _**Requisitos mínimos de sistema para o Illustrator**_
 > ![adobe illustrator](imagens/adobeillustrator.png)
 
 > [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html) diretamente para os requisitos do Illustrator.
