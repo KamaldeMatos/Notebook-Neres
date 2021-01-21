@@ -6,7 +6,6 @@
 #
 > ## _Requisitos mínimos de sistema para o Illustrator_
 > ![adobe illustrator](imagens/adobeillustrator.png)
-
 > [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html) diretamente para os requisitos do Illustrator.
 #
 ## _Requisitos de sistema do After Effects_
