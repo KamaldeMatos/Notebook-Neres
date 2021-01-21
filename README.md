@@ -8,6 +8,6 @@
 > ![adobe illustrator](imagens/adobeillustrator.png)
 > [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html) diretamente para os requisitos do Illustrator.
 #
-## 
+## Requisitos mínimos de sistema para o After Effects
 ![after effects](imagens/aftereffects.png)
  
