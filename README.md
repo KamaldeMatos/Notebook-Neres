@@ -20,6 +20,6 @@
 #### Basicamente a configuração do notebook pode ser a seguinte...
 CPU | RAM | SSD | VRAM |
 --- | --- | --- | ---- |
-i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | 500GB | no mínimo 2GB dedicada |
+i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | no mínimo 2GB dedicada |
 
  
