@@ -34,7 +34,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 ![lenovo s145](imagens/lenovoideapads145.png)
 [Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Caso queira dar uma olhada.
 #### Especificações técnicas.
-Processador:
+**Processador:**
 
 - Intel Core i5-8265U
 
@@ -46,7 +46,7 @@ Processador:
 
  
 
-Memória RAM:
+**Memória RAM:**
 
 - 8GB
 
@@ -56,31 +56,31 @@ Memória RAM:
 
  
 
-Armazenamento:
+**Armazenamento:**
 
 - 1TB 5400 RPM
 
  
 
-Chipset:
+**Chipset:**
 
 - Integrado
 
  
 
-Placa de vídeo:
+**Placa de vídeo:**
 
 - NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
 
  
 
-Sistema operacional:
+**Sistema operacional:**
 
 - Windows 10
 
  
 
-Tela:
+**Tela:**
 
 - Tamanho: 15.6"
 
@@ -96,13 +96,13 @@ Tela:
 
  
 
-Wi-Fi:
+**Wi-Fi:**
 
 - WiFi 1x1 AC
 
  
 
-Conexões:
+**Conexões:**
 
 - 1x Áudio (porta combo para headset/headphone)
 
@@ -122,19 +122,19 @@ Conexões:
 
  
 
-Câmera:
+**Câmera:**
 
 - 0.3 MP (VGA)
 
  
 
-Auto-falantes:
+**Auto-falantes:**
 
 - Alto falantes com certificação Dolby Audio (2 x 1.5W)
 
  
 
-Bateria:
+**Bateria:**
 
 - 2 células 35Wh
 
