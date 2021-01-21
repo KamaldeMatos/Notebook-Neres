@@ -28,4 +28,9 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | no mínimo 2GB dedica
 CPU | RAM | HDD | VRAM |
 --- | --- | --- | ---- |
 i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada |
+---
+# Algumas sugestões!
+## Notebook Lenovo Ideapad S145
+![lenovo s145](imagens/lenovoideapads145.png)
+
  
