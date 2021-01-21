@@ -3,7 +3,7 @@
 > ## _Requisitos mínimos e recomendados de sistema para Photoshop_
 > ![photoshop](imagens/photoshop.png)
 
-[Link da página da Adone](https://helpx.adobe.com/br/photoshop/system-requirements.html"Pagina) direcionado diretamente pra o Photoshop.
+> [Link da página da Adone](https://helpx.adobe.com/br/photoshop/system-requirements.html"Pagina) direcionado diretamente pra o Photoshop.
 #
 > ## _Requisitos mínimos de sistema para o Illustrator_
 > ![adobe illustrator](imagens/adobeillustrator.png)
