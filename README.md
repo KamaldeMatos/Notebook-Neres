@@ -18,8 +18,8 @@
 #
 ### Então Neres, eu coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atebder bem para o que você esta precisando.
 #### Basicamente a configuração do notebook pode ser a seguinte...
-CPU | RAM | SSD | HDD | VRAM |
---- | --- | --- | --- | ---- |
-i5 de 7ª geração ou superior | no mínimo 8GB | 240GB | 500GB | no mínimo 2GB dedicada |
+CPU | RAM | SSD | VRAM |
+--- | --- | --- | ---- |
+i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | 500GB | no mínimo 2GB dedicada |
 
  
