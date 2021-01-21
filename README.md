@@ -16,10 +16,14 @@
 > ![premiere](imagens/premiere.png)
 > [Link da página da Adobe](https://helpx.adobe.com/br/premiere-pro/user-guide.html/br/premiere-pro/system-requirements.ug.html) diretamente para os requisitos do Premiere Pro.
 #
-### Então Neres, eu coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atebder bem para o que você esta precisando.
+### Então Neres, eu coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atender bem para o que você esta precisando.
 #### Basicamente a configuração do notebook pode ser a seguinte...
 CPU | RAM | SSD | VRAM |
 --- | --- | --- | ---- |
 i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | no mínimo 2GB dedicada |
-
+Com o SSD tu vai ter mais rapidez nas tarefas e inicialização dos programas, trazendo assim uma produtividade bem maior. Fora que para a realização de multi tarefas o SSD  vai te proporcionar bem mais qualidade.
+#### Mas também podemos substituir o SSD por um HDD de 1TB
+CPU | RAM | HDD | VRAM |
+--- | --- | --- | ---- |
+i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada |
  
