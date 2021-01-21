@@ -56,7 +56,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de vídeo:**
 - NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
 
-[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Com o valor e a descrição completa.
+> [Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Com o valor e a descrição completa.
 
 ---
 ### Notebook Dell Ultrafino I15-7572-A30C 
@@ -79,4 +79,4 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de Vídeo**	
 - NVIDIA GeForce MX150 com 4GB GDDR5
 
-[Link do site](https://www.realnovidades.com/item/Notebook-Dell-Ultrafino-I15%252d7572%252dA30C-Intel-Core-i7-16GB-(GeForce-MX150-com-4GB)-1TB-128GB-SSD-Tela-Full-HD-.html) Com o valor e a descrição completa.
+> [Link do site](https://www.realnovidades.com/item/Notebook-Dell-Ultrafino-I15%252d7572%252dA30C-Intel-Core-i7-16GB-(GeForce-MX150-com-4GB)-1TB-128GB-SSD-Tela-Full-HD-.html) Com o valor e a descrição completa.
