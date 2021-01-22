@@ -120,3 +120,5 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 - Nvidia MX110 com 2GB GDDR5
 
  >[Link do site](https://www.magazineluiza.com.br/notebook-samsung-book-x40-intel-core-i5-8gb-1tb-156-placa-de-video-2gb-windows-10/p/225395600/in/nsbo/) Com o valor e a descrição completa.
+ 
+ ## Bom, essas foram as sugestões. 
