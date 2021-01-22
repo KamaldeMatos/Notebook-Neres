@@ -122,3 +122,5 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
  >[Link do site](https://www.magazineluiza.com.br/notebook-samsung-book-x40-intel-core-i5-8gb-1tb-156-placa-de-video-2gb-windows-10/p/225395600/in/nsbo/) Com o valor e a descrição completa.
  
  ## Bom, essas foram as sugestões. 
+ Usei como base essas quatro sugestões que deixei disponível para você dar uma analizada.
+ Com certeza existem muitas opções no mercado, minha pesquisa teve como base o desempenho e o custo do notebook.
