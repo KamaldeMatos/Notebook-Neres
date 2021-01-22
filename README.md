@@ -108,7 +108,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 #### Especificações Técnicas
 
 **Processador**
-- Intel® Core™ i5 10ª geração
+- Intel® Core™ i5 10ª geração 10210U
 
 **Memória RAM**
 - 8GB
