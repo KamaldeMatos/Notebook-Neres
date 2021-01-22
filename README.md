@@ -123,4 +123,5 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
  
  ## Bom, essas foram as sugestões. 
  Usei como base essas quatro sugestões que deixei disponível para você dar uma analizada.
+ 
  Com certeza existem muitas opções no mercado, minha pesquisa teve como base o desempenho e o custo do notebook.
