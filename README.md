@@ -99,3 +99,24 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 - Nvidia MX110 com 2GB GDDR5
 
  >[Link do site](https://www.fastshop.com.br/web/p/d/UXX512FBBR501_PRD/notebook-asus-vivobook-15-intel-core-i5-10210u-8gb-1tb-tela-de-156-nvidia-mx110-cinza-x512fb-br501t) Com o valor e a descrição completa.
+
+ ---
+
+ ### Notebook Samsung Book X40
+![asus vivobook](imagens/samsungBookX40.png)
+
+#### Especificações Técnicas
+
+**Processador**
+- Intel® Core™ i5 10ª geração
+
+**Memória RAM**
+- 8GB
+
+**HD**
+- 1TB
+
+**Placa de Vídeo**	
+- Nvidia MX110 com 2GB GDDR5
+
+ >[Link do site](https://www.magazineluiza.com.br/notebook-samsung-book-x40-intel-core-i5-8gb-1tb-156-placa-de-video-2gb-windows-10/p/225395600/in/nsbo/) Com o valor e a descrição completa.
