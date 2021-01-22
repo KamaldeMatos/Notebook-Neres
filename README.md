@@ -130,4 +130,4 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 
  Deixei todos os links dos sites de cada uma das sugestões.
 
- Qualquer coisa que prescisar estou a dispocoção para te ajudar. :+1:
+ Qualquer dúvida é só falar.:+1:
