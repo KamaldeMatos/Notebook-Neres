@@ -3,6 +3,8 @@
 > Vou deixar aqui abaixo os requisitos de alguns dos programas da Adobe.
 
 ***
+![logophotoshop](imagens/logophotoshop.png)
+
 <h2 align="center"><strong>Requisitos mínimos e recomendados de sistema para Photoshop</strong></h2>
 
  ![photoshop](imagens/photoshop.png)
