@@ -4,27 +4,27 @@ vou deixar aqui abaixo os requisitos de alguns dos programas da Adobe.
  ## Requisitos mínimos e recomendados de sistema para Photoshop
  ![photoshop](imagens/photoshop.png)
 
- [Link da página da Adobe](https://helpx.adobe.com/br/photoshop/system-requirements.html) diretamente para os requisitos do Photoshop.
+ [Link da página da Adobe](https://helpx.adobe.com/br/photoshop/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Photoshop.") diretamente para os requisitos do Photoshop.
 
 ---
  ## Requisitos mínimos de sistema para o Illustrator
  ![adobe illustrator](imagens/adobeillustrator.png)
 
- [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html) diretamente para os requisitos do Illustrator.
+ [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Illustrator.") diretamente para os requisitos do Illustrator.
 
 
 ---
  ## Requisitos mínimos de sistema para o After Effects
  ![after effects](imagens/aftereffects.png)
 
- [Link da página da Adobe](https://helpx.adobe.com/br/after-effects/user-guide.html/br/after-effects/system-requirements.ug.html) diretamente para os requisitos do After Effects.
+ [Link da página da Adobe](https://helpx.adobe.com/br/after-effects/user-guide.html/br/after-effects/system-requirements.ug.html "Link da página da Adobe diretamente para os requisitos do After Effects.") diretamente para os requisitos do After Effects.
 
 
 ---
  ## Requisitos de sistema do Premiere Pro
  ![premiere](imagens/premiere.png)
 
- [Link da página da Adobe](https://helpx.adobe.com/br/premiere-pro/user-guide.html/br/premiere-pro/system-requirements.ug.html) diretamente para os requisitos do Premiere Pro.
+ [Link da página da Adobe](https://helpx.adobe.com/br/premiere-pro/user-guide.html/br/premiere-pro/system-requirements.ug.html "Link da página da Adobe diretamente para os requisitos do Premiere Pro.") diretamente para os requisitos do Premiere Pro.
 
 
 ---
@@ -70,7 +70,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de vídeo:**
 - NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
 
->[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Com o valor e a descrição completa.
+>[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256 "Notebook Lenovo Ideapad S145") Com o valor e a descrição completa.
 
 ---
 ## Notebook Dell Ultrafino I15-7572-A30C 
@@ -93,7 +93,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de Vídeo**	
 - NVIDIA GeForce MX150 com 4GB GDDR5
 
->[Link do site](https://www.realnovidades.com/item/Notebook-Dell-Ultrafino-I15%252d7572%252dA30C-Intel-Core-i7-16GB-(GeForce-MX150-com-4GB)-1TB-128GB-SSD-Tela-Full-HD-.html) Com o valor e a descrição completa.
+>[Link do site](https://www.realnovidades.com/item/Notebook-Dell-Ultrafino-I15%252d7572%252dA30C-Intel-Core-i7-16GB-(GeForce-MX150-com-4GB)-1TB-128GB-SSD-Tela-Full-HD-.html "Notebook Dell Ultrafino I15-7572-A30C") Com o valor e a descrição completa.
 ---
 ## Notebook Asus VivoBook 15 X512FB-BR501T
 ![asus vivobook](imagens/asusvivobookx512480.png)
@@ -112,7 +112,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de Vídeo**	
 - Nvidia MX110 com 2GB GDDR5
 
- >[Link do site](https://www.fastshop.com.br/web/p/d/UXX512FBBR501_PRD/notebook-asus-vivobook-15-intel-core-i5-10210u-8gb-1tb-tela-de-156-nvidia-mx110-cinza-x512fb-br501t) Com o valor e a descrição completa.
+ >[Link do site](https://www.fastshop.com.br/web/p/d/UXX512FBBR501_PRD/notebook-asus-vivobook-15-intel-core-i5-10210u-8gb-1tb-tela-de-156-nvidia-mx110-cinza-x512fb-br501t "Notebook Asus VivoBook 15 X512FB-BR501T") Com o valor e a descrição completa.
 
  ---
 
@@ -133,7 +133,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de Vídeo**	
 - Nvidia MX110 com 2GB GDDR5
 
- >[Link do site](https://www.magazineluiza.com.br/notebook-samsung-book-x40-intel-core-i5-8gb-1tb-156-placa-de-video-2gb-windows-10/p/225395600/in/nsbo/) Com o valor e a descrição completa.
+ >[Link do site](https://www.magazineluiza.com.br/notebook-samsung-book-x40-intel-core-i5-8gb-1tb-156-placa-de-video-2gb-windows-10/p/225395600/in/nsbo/ "Notebook Samsung Book X40") Com o valor e a descrição completa.
  
  # Essas foram as sugestões. 
 
