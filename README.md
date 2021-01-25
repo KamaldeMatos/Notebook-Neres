@@ -28,24 +28,26 @@ vou deixar aqui abaixo os requisitos de alguns dos programas da Adobe.
 
 
 ---
-### Então Neres coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atender bem para o que você esta precisando.
-#### Basicamente a configuração do notebook pode ser a seguinte...
+# Então Neres
+ coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atender bem para o que você esta precisando.
+
+## Basicamente a configuração do notebook pode ser a seguinte...
 CPU | RAM | SSD | VRAM |
 --- | --- | --- | ---- |
 i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | no mínimo 2GB dedicada |
 
 > Com o SSD tu vai ter mais rapidez nas tarefas e inicialização dos programas, trazendo assim uma produtividade bem maior. Fora que para a realização de multi tarefas o SSD  vai te proporcionar bem mais qualidade.
 ---
-#### Mas também podemos substituir o SSD por um HDD de 1TB
+## Mas também podemos substituir o SSD por um HDD de 1TB
 CPU | RAM | HDD | VRAM |
 --- | --- | --- | ---- |
 i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada |
 ---
 # Algumas sugestões!
-### Notebook Lenovo Ideapad S145
+## Notebook Lenovo Ideapad S145
 ![lenovo s145](imagens/lenovoideapads145.png)
 
-#### Especificações técnicas.
+### Especificações técnicas.
 **Processador**
 - Intel Core i5-8265U
 
@@ -71,10 +73,10 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 >[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256) Com o valor e a descrição completa.
 
 ---
-### Notebook Dell Ultrafino I15-7572-A30C 
+## Notebook Dell Ultrafino I15-7572-A30C 
 ![dell](imagens/dell01.png)
 
-#### Especificações Técnicas
+### Especificações Técnicas
 
 **Processador**
 - Intel Core i7-8550U (8MB Cache, até 4.0 GHz)
@@ -93,10 +95,10 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 
 >[Link do site](https://www.realnovidades.com/item/Notebook-Dell-Ultrafino-I15%252d7572%252dA30C-Intel-Core-i7-16GB-(GeForce-MX150-com-4GB)-1TB-128GB-SSD-Tela-Full-HD-.html) Com o valor e a descrição completa.
 ---
-### Notebook Asus VivoBook 15 X512FB-BR501T
+## Notebook Asus VivoBook 15 X512FB-BR501T
 ![asus vivobook](imagens/asusvivobookx512480.png)
 
-#### Especificações Técnicas
+### Especificações Técnicas
 
 **Processador**
 - Intel® Core™ i5 10210U
@@ -114,10 +116,10 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 
  ---
 
- ### Notebook Samsung Book X40
+ ## Notebook Samsung Book X40
 ![asus vivobook](imagens/samsungBookX40.png)
 
-#### Especificações Técnicas
+### Especificações Técnicas
 
 **Processador**
 - Intel® Core™ i5 10ª geração 10210U
@@ -133,7 +135,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 
  >[Link do site](https://www.magazineluiza.com.br/notebook-samsung-book-x40-intel-core-i5-8gb-1tb-156-placa-de-video-2gb-windows-10/p/225395600/in/nsbo/) Com o valor e a descrição completa.
  
- ## Bom, essas foram as sugestões. 
+ # Essas foram as sugestões. 
 
  Com certeza existem muitas opções no mercado, minha pesquisa teve como base o desempenho e o custo do notebook.
 
