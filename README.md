@@ -1,27 +1,33 @@
 
-# Fala Neres!
-vou deixar aqui abaixo os requisitos de alguns dos programas da Adobe.
- ## Requisitos mínimos e recomendados de sistema para Photoshop
+![thumbnail](imagens/thumbnail.png)
+> Vou deixar aqui abaixo os requisitos de alguns dos programas da Adobe.
+
+***
+<h2 align="center"><strong>Requisitos mínimos e recomendados de sistema para Photoshop</strong></h2>
+
  ![photoshop](imagens/photoshop.png)
 
  [Link da página da Adobe](https://helpx.adobe.com/br/photoshop/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Photoshop.") diretamente para os requisitos do Photoshop.
 
 ---
- ## Requisitos mínimos de sistema para o Illustrator
+ <h2 align="center"><strong>Requisitos mínimos de sistema para o Illustrator</strong></h2>
+
  ![adobe illustrator](imagens/adobeillustrator.png)
 
  [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Illustrator.") diretamente para os requisitos do Illustrator.
 
 
 ---
- ## Requisitos mínimos de sistema para o After Effects
- ![after effects](imagens/aftereffects.png)
+<h2 align="center"><strong>Requisitos mínimos de sistema para o After Effects<strong></h2>
 
+ ![after effects](imagens/aftereffects.png)
  [Link da página da Adobe](https://helpx.adobe.com/br/after-effects/user-guide.html/br/after-effects/system-requirements.ug.html "Link da página da Adobe diretamente para os requisitos do After Effects.") diretamente para os requisitos do After Effects.
 
 
 ---
- ## Requisitos de sistema do Premiere Pro
+<h2
+align="center"><strong>Requisitos de sistema do Premiere Pro</strong></h2>
+
  ![premiere](imagens/premiere.png)
 
  [Link da página da Adobe](https://helpx.adobe.com/br/premiere-pro/user-guide.html/br/premiere-pro/system-requirements.ug.html "Link da página da Adobe diretamente para os requisitos do Premiere Pro.") diretamente para os requisitos do Premiere Pro.
