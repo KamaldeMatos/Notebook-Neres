@@ -70,7 +70,7 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 **Placa de vídeo:**
 - NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
 
-` [Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256 "Notebook Lenovo Ideapad S145") Com o valor e a descrição completa. `
+>[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256 "Notebook Lenovo Ideapad S145") Com o valor e a descrição completa.
 
 ---
 ## Notebook Dell Ultrafino I15-7572-A30C 
