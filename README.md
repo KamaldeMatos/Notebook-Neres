@@ -4,19 +4,16 @@
 
 
 ***
-<center>
-    <img src="imagens/logophotoshop.png" alt="icone" >
-</center>
-
-
-
+<br>
 <h2 align="center"><strong>Requisitos mínimos e recomendados de sistema para Photoshop</strong></h2>
 
  ![photoshop](imagens/photoshop.png)
 
+
  [Link da página da Adobe](https://helpx.adobe.com/br/photoshop/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Photoshop.") diretamente para os requisitos do Photoshop.
 
----
+***
+<br>
  <h2 align="center"><strong>Requisitos mínimos de sistema para o Illustrator</strong></h2>
 
  ![adobe illustrator](imagens/adobeillustrator.png)
@@ -24,7 +21,8 @@
  [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Illustrator.") diretamente para os requisitos do Illustrator.
 
 
----
+***
+<br>
 <h2 align="center"><strong>Requisitos mínimos de sistema para o After Effects<strong></h2>
 
  ![after effects](imagens/aftereffects.png)
