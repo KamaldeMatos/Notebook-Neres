@@ -8,8 +8,6 @@
 <h2 align="center"><strong>Requisitos mínimos e recomendados de sistema para Photoshop</strong></h2>
 
  ![photoshop](imagens/photoshop.png)
-
-
  [Link da página da Adobe](https://helpx.adobe.com/br/photoshop/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Photoshop.") diretamente para os requisitos do Photoshop.
 
 ***
@@ -17,7 +15,6 @@
  <h2 align="center"><strong>Requisitos mínimos de sistema para o Illustrator</strong></h2>
 
  ![adobe illustrator](imagens/adobeillustrator.png)
-
  [Link da página da Adobe](https://helpx.adobe.com/br/illustrator/system-requirements.html "Link da página da Adobe diretamente para os requisitos do Illustrator.") diretamente para os requisitos do Illustrator.
 
 
@@ -26,35 +23,43 @@
 <h2 align="center"><strong>Requisitos mínimos de sistema para o After Effects<strong></h2>
 
  ![after effects](imagens/aftereffects.png)
- 
  [Link da página da Adobe](https://helpx.adobe.com/br/after-effects/user-guide.html/br/after-effects/system-requirements.ug.html "Link da página da Adobe diretamente para os requisitos do After Effects.") diretamente para os requisitos do After Effects.
 
 
----
-<h2
-align="center"><strong>Requisitos de sistema do Premiere Pro</strong></h2>
+***
+
+<h2 align="center"><strong>Requisitos de sistema do Premiere Pro</strong></h2>
 
  ![premiere](imagens/premiere.png)
-
  [Link da página da Adobe](https://helpx.adobe.com/br/premiere-pro/user-guide.html/br/premiere-pro/system-requirements.ug.html "Link da página da Adobe diretamente para os requisitos do Premiere Pro.") diretamente para os requisitos do Premiere Pro.
 
 
----
+***
 # Então Neres
- coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atender bem para o que você esta precisando.
+
+ <p>
+     coloquei os requisitos desses programas ai, para você ter uma base das configurações que o notebook vai precisar ter. Eu vou colocar algumas sugestões de notebook que na minha opinião vai te atender bem para o que você esta precisando.
+ </p>
 
 ## Basicamente a configuração do notebook pode ser a seguinte...
+
 CPU | RAM | SSD | VRAM |
 --- | --- | --- | ---- |
 i5 de 7ª geração ou superior | no mínimo 8GB | 480GB | no mínimo 2GB dedicada |
 
-> Com o SSD tu vai ter mais rapidez nas tarefas e inicialização dos programas, trazendo assim uma produtividade bem maior. Fora que para a realização de multi tarefas o SSD  vai te proporcionar bem mais qualidade.
+<p>
+    Com o SSD tu vai ter mais rapidez nas tarefas e inicialização dos programas, trazendo assim uma produtividade bem maior. Fora que para a realização de multi tarefas o SSD  vai te proporcionar bem mais qualidade.
+</p>
+
 ---
 ## Mas também podemos substituir o SSD por um HDD de 1TB
+
 CPU | RAM | HDD | VRAM |
 --- | --- | --- | ---- |
 i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada |
----
+
+***
+
 # Algumas sugestões!
 ## Notebook Lenovo Ideapad S145
 ![lenovo s145](imagens/lenovoideapads145.png)
