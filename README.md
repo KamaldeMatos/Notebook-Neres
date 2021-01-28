@@ -59,10 +59,9 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 ## Notebook Lenovo Ideapad S145
 ![lenovo s145](imagens/lenovoideapads145.png)
 
-## Clique em saiba mais para ver as Especificações deste notebook.
+### Clique para ver as Especificações deste notebook.
+:point_down:
 <details>
-       <sumary>Kamal</sumary>
-
     Processador
     - Intel Core i5-8265U
     
