@@ -59,34 +59,30 @@ i5 de 7ª geração ou superior | no mínimo 8GB | 1TB | no mínimo 2GB dedicada
 ## Notebook Lenovo Ideapad S145
 ![lenovo s145](imagens/lenovoideapads145.png)
 
-### Clique para ver as Especificações deste notebook.
-:point_down:
-<details>
-    Processador
-    - Intel Core i5-8265U
-    
-    - Quad Core / 8 Threads
-    
-    - 6MB
-    
-    - 1.6GHZ (3.9GHZ Max Turbo)
-    
-    Memória RAM
-    - 8GB
-    
-    - 4GB soldado + 4GB slot DDR4 2400MHz
-    
-    - Expansível até 20GB (4GB soldado + 16GB slot DDR4 2400MHz)
-    
-    HD
-    - 1TB 5400 RPM
-    
-    Placa de vídeo:
-    - NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
-    
-    >[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256 "Notebook Lenovo Ideapad S145") Com o valor e a descrição completa.
-</details>
+### Especificações técnicas.
+**Processador**
+- Intel Core i5-8265U
 
+- Quad Core / 8 Threads
+
+- 6MB
+
+- 1.6GHZ (3.9GHZ Max Turbo)
+
+**Memória RAM**
+- 8GB
+
+- 4GB soldado + 4GB slot DDR4 2400MHz
+
+- Expansível até 20GB (4GB soldado + 16GB slot DDR4 2400MHz)
+
+**HD**
+- 1TB 5400 RPM
+
+**Placa de vídeo:**
+- NVIDIA® GeForce® MX110 com 2GB dedicados GDDR5
+
+>[Link do site](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115256 "Notebook Lenovo Ideapad S145") Com o valor e a descrição completa.
 
 ---
 ## Notebook Dell Ultrafino I15-7572-A30C 
